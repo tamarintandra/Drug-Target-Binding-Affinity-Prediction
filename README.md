@@ -18,5 +18,6 @@
 
 /Unsupervised_Learning_Model_1_KMeans.ipynb: Implementation of KMeans clustering model, which utilized the EC50_bind.tsv data file. This implementation focused on varying the combination of data features and the number of clusters per execution. As an unsupervised model, the entire dataset was utilized for clustering, and was then evaluated based on affinity standard deviation. This notebooke also includes visualizations in both 2 and 3 dimensions for each feature and cluster combination.
 
+---
 
 Authored by: Tamarin Tandra, Pratham Mehta, Elaine Bradley, Chenyu Gu
